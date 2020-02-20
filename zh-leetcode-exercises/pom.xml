@@ -10,6 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>zh-leetcode-exercises</artifactId>
-
+    <description>算法题</description>
 
 </project>
